@@ -43,16 +43,11 @@ cd frontend && npm install && npm run dev
 # → http://localhost:5173
 ```
 
-## 📸 Screenshots
-
-| Landing | Upload | Results |
-|---------|--------|---------|
-| ![](./screenshots/landing.png) | ![](./screenshots/upload.png) | ![](./screenshots/results.png) |
 
 ## 🌐 Live Demo
 
-- App: https://studymind-ai.vercel.app
-- API Docs: https://studymind-api.onrender.com/docs
+- App: https://studdy-mind-ai.vercel.app/
+- API Docs: https://studdymind-ai.onrender.com/docs
 
 ## 📄 License
 
