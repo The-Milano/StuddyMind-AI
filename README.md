@@ -4,7 +4,7 @@
 
 ![Demo](./demo.gif)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-studymind.vercel.app-00E5A0?style=flat-square)](https://studymind-ai.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-studymind.vercel.app-00E5A0?style=flat-square)](https://studdy-mind-ai.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
 ## ✨ Features
